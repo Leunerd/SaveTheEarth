@@ -101,6 +101,8 @@ body {
 .slide:first-child {
   background: url('Slide-1.gif') no-repeat
     center top/cover;
+    height: 100;
+    width: auto;
 }
 .slide:nth-child(2) {
   background: url('Slide-2.gif') no-repeat
