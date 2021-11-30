@@ -158,3 +158,7 @@ body {
   background: url('Slide-12.gif') no-repeat
     center center/cover;
 }
+.slide:nth-child(13)  {
+  background: url('Slide-13.gif') no-repeat
+    center center/cover;
+}
